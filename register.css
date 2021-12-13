@@ -1,0 +1,19 @@
+body
+{
+   
+    background:url('img/background.gif');
+   
+}
+h2
+{
+    color:red;
+}
+
+@media(max-width:1000px)
+{
+    
+    body
+    {
+        background-image: none;
+    }
+}
