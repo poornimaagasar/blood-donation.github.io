@@ -205,5 +205,15 @@ body
   {
     transform:translate(40%,-100%);
   }
+	
   
 }
+@media(max-width:500px)
+{
+	.group_img
+  	{
+    		width:150%;
+    		margin-top:60%;
+  	}
+}
+		
